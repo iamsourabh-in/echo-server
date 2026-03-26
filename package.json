@@ -1,0 +1,17 @@
+{
+  "name": "echo-server",
+  "version": "1.0.0",
+  "description": "A minimal Node.js web server that replies with ok",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "server",
+    "echo"
+  ],
+  "author": "",
+  "license": "ISC"
+}
